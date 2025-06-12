@@ -28,13 +28,6 @@ Analyze students’ marks across subjects and identify top performers.
 - Data Analysis & Visualization
 
 
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](Screenshot.png)
-
-`data analyst course` · `job-oriented training` · `internship` · `placement` · `best training institute in Pune` · `Power BI project` · `student performance analysis`
-]
-
 ## 📌 Author
 
 Created as part of a Data Analytics course at **CodeFirst Technology** by **Neetu Chaudhary**.
